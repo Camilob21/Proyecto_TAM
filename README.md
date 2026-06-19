@@ -1068,6 +1068,4 @@ smartrecruit-ai/
 
 ---
 
-## 📄 Licencia
 
-Este proyecto puede distribuirse bajo licencia **MIT**. Ajusta esta sección según las necesidades del repositorio.
